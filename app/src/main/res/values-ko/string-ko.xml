@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Story of You</string>
+    <string name="signup">가입</string>
+    <string name="login">로그인</string>
+    <string name="message_welcome_page">스토리 앱에 오신 것을 환영합니다! 여러분의 이야기와 경험을 공유해보세요.</string>
+    <string name="title_welcome_page">이야기와 경험을 나눠보세요</string>
+    <string name="title_signup_page">아래 정보를 입력하세요</string>
+    <string name="email">이메일</string>
+    <string name="password">비밀번호</string>
+    <string name="message_login_page">로그인 정보를 입력하세요</string>
+    <string name="title_login_page">당신의 이야기, 당신의 세계: 시작하세요!</string>
+    <string name="name">이름</string>
+    <string name="message_main_page">스토리 앱에 오신 것을 환영합니다</string>
+    <string name="greeting">안녕하세요 %1$s,</string>
+    <string name="logout">로그아웃</string>
+    <string name="imageDescription">이미지 설명</string>
+    <string name="edt_email_hint">이메일을 입력하세요</string>
+    <string name="invalid_email">유효하지 않은 이메일 주소입니다</string>
+    <string name="edt_password_hint">비밀번호를 입력하세요</string>
+    <string name="invalid_password">비밀번호는 8자 이상이어야 합니다</string>
+    <string name="username">사용자 이름을 입력하세요</string>
+    <string name="button_enabled_login">로그인</string>
+    <string name="button_enabled_register">가입</string>
+    <string name="button_text_disabled">데이터를 입력하세요</string>
+    <string name="register_dialog_message">계정이 생성되었습니다. 로그인하여 이야기를 공유하세요.</string>
+    <string name="dialog_positive_button">계속</string>
+    <string name="register_failed">가입 실패! 올바른 이메일과 비밀번호를 입력하세요.</string>
+    <string name="login_dialog_message">로그인에 성공했습니다!</string>
+    <string name="login_failed_dialog_title">죄송합니다</string>
+    <string name="login_failed_dialog">로그인 실패! 올바른 이메일과 비밀번호를 입력하세요.</string>
+    <string name="story_image">스토리 이미지</string>
+    <string name="description">설명</string>
+    <string name="yeay">예이...</string>
+    <string name="language">언어</string>
+    <string name="camera">카메라</string>
+    <string name="gallery">갤러리</string>
+    <string name="description_hint">여기에 설명을 작성하세요...</string>
+    <string name="createAccount">나는 계정이 없어요</string>
+    <string name="retry">다시 시도해 주세요</string>
+    <string name="upload">업로드</string>
+    <string name="setting">설정</string>
+    <string name="add_story_button">이야기 추가 버튼</string>
+    <string name="logout_dialog_title">로그아웃</string>
+    <string name="logout_dialog_message">로그아웃 하시겠습니까?</string>
+    <string name="yes">예</string>
+    <string name="no">아니오</string>
+    <string name="appbar">Story of You</string>
+    <string name="upload_page_title">이야기 업로드</string>
+    <string name="upload_dialog_message">축하합니다. 이야기가 업로드되었습니다.</string>
+    <string name="empty_image_warning">이미지 파일을 선택하세요!</string>
+    <string name="detail_page_title">이야기 상세 정보</string>
+    <string name="enabled_text">시작...</string>
+    <string-array name="language_array">
+        <item>영어</item>
+        <item>인도네시아어</item>
+        <item>자바어</item>
+        <item>한국어</item>
+        <item>일본어</item>
+    </string-array>
+    <string name="title_activity_maps">맵 액티비티</string>
+    <string name="normal_type">일반</string>
+    <string name="satellite_type">위성</string>
+    <string name="terrain_type">지형</string>
+    <string name="hybrid_type">하이브리드</string>
+    <string name="gps_tittle">GPS가 비활성화되었습니다</string>
+    <string name="gps_message">장치의 GPS를 켜서 위치를 공유하십시오!</string>
+    <string name="error_no_location">위치를 사용할 수 없습니다</string>
+    <string name="label_location">위치</string>
+    <string name="get_new_location">새로운 위치 가져오기</string>
+    <string name="longtitute">경도: %s</string>
+    <string name="latitude">위도: %s</string>
+    <string name="maps">지도</string>
+    <string name="error_title">오류</string>
+    <string name="error_message">문제가 발생했습니다. 나중에 다시 시도해 주세요.</string>
+</resources>

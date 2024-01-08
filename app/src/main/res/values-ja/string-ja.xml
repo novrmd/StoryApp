@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Story of You</string>
+    <string name="signup">サインアップ</string>
+    <string name="login">ログイン</string>
+    <string name="message_welcome_page">ストーリーアプリへようこそ！あなたの物語や経験を共有しましょう。</string>
+    <string name="title_welcome_page">ストーリーと経験を共有</string>
+    <string name="title_signup_page">以下のデータを入力してください</string>
+    <string name="email">メール</string>
+    <string name="password">パスワード</string>
+    <string name="message_login_page">あなたのデータを入力してください</string>
+    <string name="title_login_page">あなたのストーリー、あなたの世界：ログインしましょう！</string>
+    <string name="name">名前</string>
+    <string name="message_main_page">ストーリーアプリへようこそ</string>
+    <string name="greeting">こんにちは、%1$sさん、</string>
+    <string name="logout">ログアウト</string>
+    <string name="imageDescription">ログインページの画像</string>
+    <string name="edt_email_hint">メールアドレスを入力してください</string>
+    <string name="invalid_email">無効なメールアドレス</string>
+    <string name="edt_password_hint">パスワードを入力してください</string>
+    <string name="invalid_password">パスワードは8文字未満であってはいけません</string>
+    <string name="username">名前を入力してください</string>
+    <string name="button_enabled_login">ログイン</string>
+    <string name="button_enabled_register">サインアップ</string>
+    <string name="button_text_disabled">データを入力してください</string>
+    <string name="register_dialog_message">アカウントが準備できました。ログインしてここで共有してください。</string>
+    <string name="dialog_positive_button">次へ</string>
+    <string name="register_failed">ログインに失敗しました！正しいメールアドレスとパスワードを入力してください。</string>
+    <string name="login_dialog_message">ログインに成功しました！</string>
+    <string name="login_failed_dialog_title">申し訳ありません</string>
+    <string name="login_failed_dialog">ログインに失敗しました！メールアドレスとパスワードのデータを正確に入力してください</string>
+    <string name="story_image">ストーリー画像</string>
+    <string name="description">説明</string>
+    <string name="yeay">やった...</string>
+    <string name="language">言語</string>
+    <string name="camera">カメラ</string>
+    <string name="gallery">ギャラリー</string>
+    <string name="description_hint">説明を記入してください...</string>
+    <string name="createAccount">アカウントを持っていません</string>
+    <string name="retry">もう一度お試しください</string>
+    <string name="upload">アップロード</string>
+    <string name="setting">設定</string>
+    <string name="add_story_button">ストーリーを追加するボタン</string>
+    <string name="logout_dialog_title">ログアウト</string>
+    <string name="logout_dialog_message">アプリを終了してもよろしいですか？</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+    <string name="appbar">Story of You</string>
+    <string name="upload_page_title">ストーリーをアップロード</string>
+    <string name="upload_dialog_message">やった、あなたのストーリーがアップロードされました</string>
+    <string name="empty_image_warning">画像ファイルを先に挿入してください！</string>
+    <string name="detail_page_title">詳細ストーリー</string>
+    <string name="enabled_text">始める...</string>
+    <string-array name="language_array">
+        <item>英語</item>
+        <item>インドネシア語</item>
+        <item>ジャワ語</item>
+        <item>韓国語</item>
+        <item>日本語</item>
+    </string-array>
+    <string name="title_activity_maps">マップアクティビティ</string>
+    <string name="normal_type">ノーマル</string>
+    <string name="satellite_type">サテライト</string>
+    <string name="terrain_type">地形</string>
+    <string name="hybrid_type">ハイブリッド</string>
+    <string name="gps_tittle">GPSが無効です</string>
+    <string name="gps_message">デバイスのGPSをオンにして位置情報を共有してください。</string>
+    <string name="error_no_location">位置情報は利用できません</string>
+    <string name="label_location">場所</string>
+    <string name="get_new_location">新しい場所を取得</string>
+    <string name="longtitute">経度: %s</string>
+    <string name="latitude">緯度: %s</string>
+    <string name="maps">地図</string>
+    <string name="error_title">エラー</string>
+    <string name="error_message">問題が発生しました。後で再試行してください。</string>
+</resources>
